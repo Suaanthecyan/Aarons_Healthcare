@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "download": "^8.0.0",
+    "nodemon": "^2.0.15"
+  },
+  "scripts": {
+    "serve": "nodemon server.js"
+  }
+}
